@@ -13,7 +13,7 @@
 // ============================================================================
 // KONFIGURASI UTAMA: https://script.google.com/macros/s/AKfycbxXOABpViGfmiUy77jUIuMC45hZ4ylYp2WVRCDDNTyBsDk9zzcUMf9oilXux9GfJw/exec
 // ============================================================================
-var GAS_API_URL = 'PASTE_URL_WEB_APP_APPS_SCRIPT_ANDA_DI_SINI';
+var GAS_API_URL = 'https://script.google.com/macros/s/AKfycbxXOABpViGfmiUy77jUIuMC45hZ4ylYp2WVRCDDNTyBsDk9zzcUMf9oilXux9GfJw/exec';
 
 // Status & Variabel Global
 var currentAdminPin = '1912';
